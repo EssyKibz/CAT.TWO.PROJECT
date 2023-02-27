@@ -14,6 +14,7 @@ public class examples {
     static final String USER = "root";
     static final String PASSWORD = "";
 
+
     public static void main(String[] args) throws SQLException {
         Connection connection = null;
         Statement statement = null;
